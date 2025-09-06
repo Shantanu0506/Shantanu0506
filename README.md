@@ -33,9 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
-| GitHub Stats | Top Languages |
+| Shantanu's GitHub Stats | Top Langs |
 |---:|:---|
-| ![Shantanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shantanu0506&show_icons=true&theme=dark&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu0506&layout=compact&theme=dark&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=Shantanu0506&show_icons=true&theme=dark&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu0506&layout=compact&theme=dark&hide_border=true) |
 
 <!-- Streak (optional) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shantanu0506&theme=dark&hide_border=true)
