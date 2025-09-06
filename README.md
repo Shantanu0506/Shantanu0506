@@ -6,19 +6,62 @@
 
 ---
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/YOUR-LINKEDIN/) [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&style=for-the-badge)](mailto:your.email@example.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://your-portfolio.example)
+
+<h2 align="center">🤝 Connect with me</h2>
+<p align="center">
+  <a href="https://github.com/Shantanu0506" target="_blank" style="margin: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40" style="filter: invert(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shantanusarad0506/" target="_blank" style="margin: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" width="40" height="40" style="filter: invert(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://twitter.com/YourProfile" target="_blank" style="margin: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" style="filter: invert(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://www.instagram.com/YourProfile/" target="_blank" style="margin: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733558.png" width="40" height="40" style="filter: invert(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="https://wa.me/91777XXXXXXX" target="_blank" style="margin: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" style="filter: invert(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com" target="_blank" style="margin: 15px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="filter: invert(1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+</p>
+
 
 ---
+<h2 align="center">📝 Languages</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin: 10px;"/>
+</p>
 
-## 🧰 My Top Tech
-<!-- use local small icons or emoji -->
-<img src="./images/html.png" alt="HTML" width="36" style="margin-right:8px"/>
-<img src="./images/css.png" alt="CSS" width="36" style="margin-right:8px"/>
-<img src="./images/js.png" alt="JS" width="36" style="margin-right:8px"/>
-<img src="./images/react.png" alt="React" width="36" style="margin-right:8px"/>
-<img src="./images/java.png" alt="Java" width="36" style="margin-right:8px"/>
-<img src="./images/spring.png" alt="Spring" width="36" style="margin-right:8px"/>
+<hr style="border: 1px solid #ccc; margin: 40px 0;" />
+
+<h2 align="center">⚙️ Tools & Frameworks</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 10px;"/>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin: 10px;"/>
+  <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="40" height="40" style="margin: 10px;"/>
+</p>
+
+
+
+
+
+
 
 ---
 
